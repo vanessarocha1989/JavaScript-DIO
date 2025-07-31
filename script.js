@@ -9,3 +9,6 @@ let segundoNumero = 23
 console.log(primeiroNumero - segundoNumero)
 
 let multiplicador = 4
+let multiplicando = 12
+let produto = multiplicador * multiplicando
+console.log("resultado da multiplicação é " + produto)
